@@ -1,5 +1,5 @@
 # js_image_slider
-A simple image gallery built with Javascript, HTML and CSS
+An image gallery built with Javascript, HTML and CSS
 
 ![](demo.gif)
 
